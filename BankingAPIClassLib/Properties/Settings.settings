@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BankingAPI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="APIURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://bankingwebapi.azurewebsites.net</Value>
+    </Setting>
+    <Setting Name="LoginMethod" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/api/v1/Auth/Login</Value>
+    </Setting>
+    <Setting Name="RegisterMethod" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/api/v1/Auth/Register</Value>
+    </Setting>
+    <Setting Name="BankAccount" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/api/v1/BankAccount</Value>
+    </Setting>
+    <Setting Name="PayService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/api/v1/PayService</Value>
+    </Setting>
+    <Setting Name="Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/api/v1/Service</Value>
+    </Setting>
+    <Setting Name="Transfer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/api/v1/Transfer</Value>
+    </Setting>
+    <Setting Name="User" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/api/v1/User</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,10 @@
+C:\Users\sande\source\repos\BankingAPIClassLib\bin\Debug\ClassLibrary.dll.config
+C:\Users\sande\source\repos\BankingAPIClassLib\bin\Debug\ClassLibrary.dll
+C:\Users\sande\source\repos\BankingAPIClassLib\bin\Debug\ClassLibrary.pdb
+C:\Users\sande\source\repos\BankingAPIClassLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sande\source\repos\BankingAPIClassLib\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\sande\source\repos\BankingAPIClassLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sande\source\repos\BankingAPIClassLib\obj\Debug\BankingAPI.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\BankingAPIClassLib\obj\Debug\BankingAPI.csproj.CopyComplete
+C:\Users\sande\source\repos\BankingAPIClassLib\obj\Debug\ClassLibrary.dll
+C:\Users\sande\source\repos\BankingAPIClassLib\obj\Debug\ClassLibrary.pdb
