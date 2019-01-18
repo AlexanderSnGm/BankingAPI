@@ -8,3 +8,11 @@ C:\Users\sande\source\repos\BankingAPIClassLib\obj\Debug\BankingAPI.csproj.CoreC
 C:\Users\sande\source\repos\BankingAPIClassLib\obj\Debug\BankingAPI.csproj.CopyComplete
 C:\Users\sande\source\repos\BankingAPIClassLib\obj\Debug\ClassLibrary.dll
 C:\Users\sande\source\repos\BankingAPIClassLib\obj\Debug\ClassLibrary.pdb
+C:\Users\lgomez.5DOM\Documents\GitHub\BankingAPI\BankingAPIClassLib\bin\Debug\ClassLibrary.dll.config
+C:\Users\lgomez.5DOM\Documents\GitHub\BankingAPI\BankingAPIClassLib\bin\Debug\ClassLibrary.dll
+C:\Users\lgomez.5DOM\Documents\GitHub\BankingAPI\BankingAPIClassLib\bin\Debug\ClassLibrary.pdb
+C:\Users\lgomez.5DOM\Documents\GitHub\BankingAPI\BankingAPIClassLib\obj\Debug\BankingAPI.csprojAssemblyReference.cache
+C:\Users\lgomez.5DOM\Documents\GitHub\BankingAPI\BankingAPIClassLib\obj\Debug\BankingAPI.csproj.CoreCompileInputs.cache
+C:\Users\lgomez.5DOM\Documents\GitHub\BankingAPI\BankingAPIClassLib\obj\Debug\BankingAPI.csproj.CopyComplete
+C:\Users\lgomez.5DOM\Documents\GitHub\BankingAPI\BankingAPIClassLib\obj\Debug\ClassLibrary.dll
+C:\Users\lgomez.5DOM\Documents\GitHub\BankingAPI\BankingAPIClassLib\obj\Debug\ClassLibrary.pdb
